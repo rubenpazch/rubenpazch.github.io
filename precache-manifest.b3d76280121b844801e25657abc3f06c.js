@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ddbc995aed2fc1baf7f90bd9258f9dc",
+    "revision": "ed94cbac7d267f27b176abd0ee81837e",
     "url": "/index.html"
   },
   {
-    "revision": "f453891b00d9d2d14895",
-    "url": "/static/css/main.63c3391b.chunk.css"
+    "revision": "18c7eee981c258d036fc",
+    "url": "/static/css/main.bd5270f6.chunk.css"
   },
   {
-    "revision": "d5633a834203db0a240b",
-    "url": "/static/js/2.0eb2cd66.chunk.js"
+    "revision": "041b4dadd3e4464efaf0",
+    "url": "/static/js/2.30c7f512.chunk.js"
   },
   {
     "revision": "ce15a0ffcfe8b91e4f219c1d7bb8c5ef",
-    "url": "/static/js/2.0eb2cd66.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.30c7f512.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f453891b00d9d2d14895",
-    "url": "/static/js/main.6f744966.chunk.js"
+    "revision": "18c7eee981c258d036fc",
+    "url": "/static/js/main.9fbf2c84.chunk.js"
   },
   {
     "revision": "ea630fe81389fbceefbb",
     "url": "/static/js/runtime-main.bf9f4589.js"
+  },
+  {
+    "revision": "a2580ee90560fc8105341c37e970974a",
+    "url": "/static/media/bg-pattern-desktop.a2580ee9.svg"
+  },
+  {
+    "revision": "40d8475d9d575db6640d7db693df351f",
+    "url": "/static/media/bg-pattern-mobile.40d8475d.svg"
   },
   {
     "revision": "af66f62d834156e58e38e12dbdc14077",
@@ -140,6 +148,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/features-split-image-03.87e4d053.png"
   },
   {
+    "revision": "ba0110cbe699febf9b554567b3c319ab",
+    "url": "/static/media/icon-arrow-down.ba0110cb.svg"
+  },
+  {
+    "revision": "a7ef46ea71d879197334a0d3b77938b2",
+    "url": "/static/media/illustration-box-desktop.a7ef46ea.svg"
+  },
+  {
     "revision": "ea6949039d6554ebf2cf109f333f5811",
     "url": "/static/media/illustration-section-01.ea694903.svg"
   },
@@ -148,12 +164,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/illustration-section-02.63d0555d.svg"
   },
   {
+    "revision": "44e3065026b08ed32221e1916da7484e",
+    "url": "/static/media/illustration-woman-online-desktop.44e30650.svg"
+  },
+  {
+    "revision": "daf669348cc4af537c1224c0b07de357",
+    "url": "/static/media/illustration-woman-online-mobile.daf66934.svg"
+  },
+  {
     "revision": "2810a88b1d6365b363caeabe678f1629",
     "url": "/static/media/logo.2810a88b.svg"
   },
   {
     "revision": "8f81d9a0b2fb9f8d7bff443e6aa45fbf",
     "url": "/static/media/logo2.8f81d9a0.svg"
+  },
+  {
+    "revision": "81eda716e82c506fbc256d278808a855",
+    "url": "/static/media/pl-csharp.81eda716.png"
+  },
+  {
+    "revision": "15a4866e67b5a9aac43ae3af08de6721",
+    "url": "/static/media/pl-javascript.15a4866e.png"
   },
   {
     "revision": "ed025cecd22256b21049797150795b5e",
