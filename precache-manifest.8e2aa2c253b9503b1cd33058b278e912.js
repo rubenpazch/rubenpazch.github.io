@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff4b0e9735e73c71545cd20abceced1e",
+    "revision": "8dca60fba2266b5187341c1b880353da",
     "url": "/index.html"
   },
   {
-    "revision": "9b12d9a4598eefdcbf7c",
-    "url": "/static/css/main.3015b030.chunk.css"
+    "revision": "ea2ea4077926b4b9320f",
+    "url": "/static/css/main.42a788bb.chunk.css"
   },
   {
-    "revision": "041b4dadd3e4464efaf0",
-    "url": "/static/js/2.30c7f512.chunk.js"
+    "revision": "8c208de6168e7797db27",
+    "url": "/static/js/2.1164123f.chunk.js"
   },
   {
     "revision": "ce15a0ffcfe8b91e4f219c1d7bb8c5ef",
-    "url": "/static/js/2.30c7f512.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1164123f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b12d9a4598eefdcbf7c",
-    "url": "/static/js/main.6a369972.chunk.js"
+    "revision": "ea2ea4077926b4b9320f",
+    "url": "/static/js/main.054914bb.chunk.js"
   },
   {
     "revision": "ea630fe81389fbceefbb",
@@ -186,6 +186,46 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "15a4866e67b5a9aac43ae3af08de6721",
     "url": "/static/media/pl-javascript.15a4866e.png"
+  },
+  {
+    "revision": "86f1efea5c4db8501224aa159f676454",
+    "url": "/static/media/pl-netframe.86f1efea.png"
+  },
+  {
+    "revision": "3eea0288a8ca5b72af25ff8c283bde2a",
+    "url": "/static/media/pl-rails.3eea0288.png"
+  },
+  {
+    "revision": "d5e08cd1bc2797eb9f6bcdf90dea6806",
+    "url": "/static/media/pl-react.d5e08cd1.png"
+  },
+  {
+    "revision": "e0494b067213ecf22d9b94c66b050145",
+    "url": "/static/media/pl-redux.e0494b06.png"
+  },
+  {
+    "revision": "32f4b7b0c620d3218195153baeaa4f68",
+    "url": "/static/media/pl-ruby.32f4b7b0.png"
+  },
+  {
+    "revision": "3c32ce629bf592e1a3acba70e280362c",
+    "url": "/static/media/pl-soft-commu.3c32ce62.png"
+  },
+  {
+    "revision": "a4f9bd0293a55692eae7331c0e363707",
+    "url": "/static/media/pl-soft-person.a4f9bd02.png"
+  },
+  {
+    "revision": "a08834073560a7592c74f095a3c7be5a",
+    "url": "/static/media/pl-soft-skills.a0883407.png"
+  },
+  {
+    "revision": "68e2c533ba339904634f5e9304f207ed",
+    "url": "/static/media/pl-windows.68e2c533.png"
+  },
+  {
+    "revision": "88c62282ad63f7a7092631c2425b2d96",
+    "url": "/static/media/pl-writting.88c62282.png"
   },
   {
     "revision": "ed025cecd22256b21049797150795b5e",
